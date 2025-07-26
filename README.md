@@ -1,6 +1,6 @@
 Welcome to My GitHub! 👨‍💻🚀🌌
 Hi there! 👋
-I'm a passionate developer driven by my love for coding, my fascination with the world of cryptocurrency, and my endless admiration for anime. 🖥️💰🎌
+I'm a passionate developer driven by my love for coding, and my endless admiration for anime. 🖥️💰🎌
 
 Every day is an adventure as I strive to explore new technologies and expand my horizons. Whether it’s building modern web applications, or crafting anime-inspired projects, I bring my energy and creativity to every line of code. 🚀
 
